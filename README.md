@@ -1,2 +1,2 @@
 # RSGD
-Differentially Private SGD
+Renyi Differentially Private SGD
